@@ -15,7 +15,8 @@ This project analyzes a Sports Products Sales dataset using SQL to uncover insig
 * Support business decisions using data-driven insights
 
 # 🗂️ Dataset Overview
-Dataset Size: 9,644 records × 13 columns
+Dataset Size: 9,644 records × 13 columns 
+
 Source: Sports Products Sales Analysis Dataset
 
 Key attributes analyzed include:
@@ -27,50 +28,31 @@ Key attributes analyzed include:
 * Retailer, Sales Method
 
 # 📍 Regional Performance Insights
-✔️ Revenue & Profit by Region
-✔️ Top 3 Revenue-Generating Cities per Region
-✔️ Most Profitable Product per Region
+1. Revenue & Profit by Region
+2. Top 3 Revenue-Generating Cities per Region
+3. Most Profitable Product per Region
 
 # 🛒 Product Insights
-🔝 Top 5 Best-Selling Products
+1. Top 5 Best-Selling Products - Ranked by total sales volume.
+2. Highest Average Profit Margin
 
-Ranked by total sales volume.
+# 📦 Additional Analysis
+1. Total units sold per product
+2. Average price per unit
+3. Category-level profitability trends
 
-💰 Highest Average Profit Margin
+# 🏬 Retailer & Sales Channel Analysis
+1. Best Sales Method (by Profit) - Comparison across Outlet, Online, and Store channels.
+2. Retailer Ranking - Retailers ranked based on total revenue contribution.
+3. Average Operating Margin per Sales Method
 
-Men’s Street Footwear — 44% (highest margin)
-
-📦 Additional Analysis
-
-Total units sold per product
-
-Average price per unit
-
-Category-level profitability trends
-
-🏬 Retailer & Sales Channel Analysis
-⭐ Best Sales Method (by Profit)
-
-Comparison across Outlet, Online, and Store channels.
-
-⭐ Retailer Ranking
-
-Retailers ranked based on total revenue contribution.
-
-⭐ Average Operating Margin per Sales Method
-💼 Business Recommendations
-
+# 💼 Business Recommendations
 Based on insights derived from SQL analysis:
+* Expand outlet networks in top-performing regions
+* Focus on women’s footwear to capture high-margin opportunities
+* Optimize pricing to balance margin and sales volume
+* Introduce loyalty programs in high-revenue cities to retain customers
 
-📈 Expand outlet networks in top-performing regions
-
-👟 Focus on women’s footwear to capture high-margin opportunities
-
-💲 Optimize pricing to balance margin and sales volume
-
-🎟️ Introduce loyalty programs in high-revenue cities to retain customers
-
-🏁 Conclusion
-
+# 🏁 Conclusion
 SQL-based exploration revealed clear patterns in product, regional, and retailer performance.
 These insights support strategic decisions related to product focus, regional expansion, and channel optimization.
